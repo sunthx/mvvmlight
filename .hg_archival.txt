@@ -1,0 +1,5 @@
+repo: d24517eb64edf8bb62887ca187f5809bff95f611
+node: ff4254690fed85fa79b5fd77fcfdaad2601aa1bf
+branch: default
+latesttag: V5.3 Nuget
+latesttagdistance: 1
